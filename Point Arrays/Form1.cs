@@ -45,6 +45,7 @@ namespace Point_Arrays
 
             formGraphics.DrawPolygon(drawPen, triangle);
             formGraphics.FillPolygon(drawBrush, triangle);
+
             
         }
     }
